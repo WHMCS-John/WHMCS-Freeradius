@@ -9,9 +9,13 @@ however, when you setup the addon in whmcs, use this for database auth.
 
 Name - anything
 IP Address - MySQL Hostname
+
 Server Type - Freeradius
+
 Username - MySQL Username
+
 Password - MySQL Password
+
 Access Hash - MySQL Database Name
 
 
